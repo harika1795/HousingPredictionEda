@@ -1,4 +1,5 @@
-***California Housing Dataset - Exploratory Data Analysis (EDA)**
+*California Housing Dataset - Exploratory Data Analysis (EDA)*
+
 Welcome to the California Housing Dataset Exploratory Data Analysis (EDA) repository. This project aims to perform EDA on the California Housing Dataset to gain insights into the housing market in California. The dataset contains information about housing prices and various factors that may influence them.
 
 Dataset Description:
